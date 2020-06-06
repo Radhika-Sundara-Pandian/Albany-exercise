@@ -1,0 +1,6 @@
+Provided Basic Implementation and Unit tests for the scenario.
+Can be further enhanced by monitoring for different listeners and buy transaction on different threads.
+Graceful Termination condition for monitoring loop if some listener doesn't reach the target and been monitored longer.   
+Not clear about the security parameter. Used just for validating buy transaction.
+Monitoring validations and scalability can be further improved in order to handle multiple requests from different agents on multiple stocks.
+ Verified and executed unit tests in eclipse
